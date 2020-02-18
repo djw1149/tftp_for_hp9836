@@ -1,0 +1,7 @@
+# micro host table for pascal tftp.   Created by David Waitzman 2/11/85
+128.2.251.1 cmu-ee-ampere.arpa cmu-ee-ampere ampere eea
+128.2.251.2 cmu-ee-faraday.arpa cmu-ee-faraday faraday eef
+128.2.251.3 cmu-ee-maxwell.arpa cmu-ee-maxwell maxwell eem
+128.2.251.4 cmu-ee-gauss.arpa cmu-ee-gauss gauss eeg
+128.2.251.5 cmu-ee-newton.arpa cmu-ee-newton newton een
+128.2.251.6 cmu-ee-henry.arpa cmu-ee-henry henry eeh
